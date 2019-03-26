@@ -1,0 +1,70 @@
+/*GLOBAL STYLES*/
+html {
+    background-color: white;
+}
+body {
+    font-family:  "Trebuchet MS", sans-serif;
+    color: #333;
+    margin: 30px 10px;
+    border-radius: 30px;
+}
+main {
+    padding: 1.4em;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    width: 50%;
+    margin: auto;
+    font-size: 0.9em;
+    text-align: left;
+}
+li {
+  padding: 10px;
+}
+blockquote {
+    text-align: center;
+    padding: 10px;
+    font-size: 1.1em;
+    font-style: italic;
+}
+header{
+    text-align: center;
+    width: 100%;
+    padding: 1em;
+    
+ }
+address{padding: 10px;}
+/*Tribute Info*/
+#tribute-info{
+    
+}
+
+.date {
+    font-weight: 700;
+}
+
+#main {
+    background: lightgray;
+  }
+  
+  #img-div{
+      padding: 1em;
+      background-color: white;
+      border-radius: 5px;
+      text-align: center;
+  }
+  #img-div > img {
+    display: block;
+    max-width: 80%;
+    width: 90%;
+    height: auto;
+    margin: auto;
+  }
+  /*FOOTER*/
+  footer p {
+      font-size: 1.3em; 
+      font-weight: 600;
+      text-align: center;
+    }
